@@ -49,7 +49,6 @@ function estIlMajeur( $a = 34 ){
     }
 }
 
-
 // Exercice X
 function plusGrand( $a = 10 , $b = 8 ){
     if ($a > $b){
